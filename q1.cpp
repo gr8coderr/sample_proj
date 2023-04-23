@@ -9,6 +9,7 @@ int main() {
 
     if(num==1){
         cout<<"You have enterefdsf
+        dsfsdfsdfsdfsfd
     }
     else{
         if(num==2 || num==3){
