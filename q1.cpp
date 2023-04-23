@@ -8,7 +8,7 @@ int main() {
     cin>>num;
 
     if(num==1){
-        cout<<"You have entered 1"<<endl;
+        cout<<"You have enterefdsf
     }
     else{
         if(num==2 || num==3){
